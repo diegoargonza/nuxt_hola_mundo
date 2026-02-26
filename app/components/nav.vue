@@ -3,5 +3,6 @@
         <NuxtLink to="/" class="hover:text-blue-500">inicio</NuxtLink>
         <NuxtLink to="/nosotros" class="hover:text-blue-500">nosotros</NuxtLink>
         <NuxtLink to="/contacto" class="hover:text-blue-500">contacto</NuxtLink>
+        <!-- <NuxtLink to="/contacto" class="hover:text-blue-500">contacto</NuxtLink> -->
     </ul>
 </template>
